@@ -1,0 +1,14 @@
+{
+  "name": "videojs-playcount",
+  "version": "0.0.0",
+  "author": "Nick Pafundi",
+  "license": "MIT",
+  "main": [
+    "dist/videojs-playcount.min.js"
+  ],
+  "keywords": [
+    "videojs",
+    "videojs-plugin"
+  ]
+}
+
