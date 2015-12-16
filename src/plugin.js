@@ -1,8 +1,5 @@
 import videojs from 'video.js';
 
-// Default options for the plugin.
-const defaults = {};
-
 /**
  * A video.js plugin to handle basic play counting for videos. By default, a
  * `played` event will be triggered on the player if the video has played for a
