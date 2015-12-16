@@ -5,6 +5,9 @@ import videojs from 'video.js';
  * `played` event will be triggered on the player if the video has played for a
  * cumulative 10% of its total video length.
  *
+ * Author: Nick Pafundi / Clover Sites
+ * License: MIT
+ *
  * Options
  *  playTimer:  Number of seconds necessary for a view to be considered a play.
  *              Note that this takes precedence over `playTimerPercent`. If the
